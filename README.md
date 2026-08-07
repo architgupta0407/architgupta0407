@@ -127,13 +127,17 @@
 
 # 🚀 Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| 🎵 **AirMusic Studio** | AI-powered music application |
-| 📁 **SATorrent** | Peer-to-peer file sharing software |
-| 🤖 **AI Projects** | Machine Learning & AI experiments |
-| 💻 **DSA in C** | Data Structures and Algorithms |
+### 🎵 AirMusic Studio
+> AI-powered music application focused on intelligent music experiences.
 
+### 📁 SATorrent
+> Peer-to-peer file sharing software built using networking concepts.
+
+### 🤖 AI Projects
+> Collection of AI and Machine Learning experiments.
+
+### 💻 DSA in C
+> Data Structures and Algorithms implemented in C.
 ---
 
 # 📚 Currently Exploring
