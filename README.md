@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/architgupta0407/assets/main/banner.png" alt="Archit Gupta Banner" width="100%">
+</p>
+
 <div align="center">
 
 # 👋 Hi, I'm Archit Gupta
