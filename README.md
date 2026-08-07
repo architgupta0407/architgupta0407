@@ -78,13 +78,10 @@
 
 # 📊 GitHub Statistics
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=architgupta0407&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=architgupta0407&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
-
-</div>
+<p align="center">
+  <img height="170" src="https://github-readme-stats-one-bice.vercel.app/api?username=architgupta0407&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=architgupta0407&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
@@ -98,13 +95,6 @@
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=architgupta0407&theme=tokyonight&row=1&column=6&no-frame=true"/>
-
-</div>
 
 ---
 
