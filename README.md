@@ -91,6 +91,13 @@ Become an AI Software Engineer and build products that solve real-world problems
 </div>
 
 ---
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/architgupta0407/architgupta0407/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+</div>
 
 # 🚀 Featured Projects
 
