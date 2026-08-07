@@ -14,39 +14,65 @@
 
 ---
 
-# 💫 About Me
+# 👨‍💻 About Me
 
-🎓 First-Year B.Tech Data Science Student
+🎓 First-Year B.Tech Data Science Student passionate about building software that solves real-world problems.
 
-💻 Passionate about Artificial Intelligence, Software Engineering, and Open Source
+## 💡 Interests
 
-🚀 **Currently Building**
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 💻 Software Engineering
+- 🌍 Open Source
 
-- 🎵 AirMusic Studio
-- 📁 SATorrent (P2P File Sharing)
-- 🤖 AI Projects
+## 🚀 Currently Building
 
-🌱 **Currently Learning**
+- 🎵 AirMusic Studio – AI-powered music application
+- 📁 SATorrent – Peer-to-peer file sharing software
+- 🤖 AI-powered applications
 
-- C
-- Python
-- Git & GitHub
-- Machine Learning
-- Data Structures & Algorithms
+## 📚 Currently Learning
 
-🎯 **Goal**
+- 📖 Data Structures & Algorithms
+- 🐍 Python
+- ⚙️ C
+- 🌿 Git & GitHub
+- 🧠 Machine Learning
 
-Become an AI Software Engineer and build products that solve real-world problems.
+## 🎯 2026 Goals
+
+- 🚀 Build impactful AI products
+- 🌟 Contribute to Open Source
+- 💼 Land a software engineering internship
+- 🌐 Build a professional developer portfolio
 
 ---
 
-# 🛠 Tech Stack
+# 🛠️ Tech Stack
 
-<div align="center">
+### 👨‍💻 Languages
 
-<img src="https://skillicons.dev/icons?i=python,c,java,git,github,vscode,html,css,js,mysql,linux" />
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,java"/>
+</p>
 
-</div>
+### 🌐 Web
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js"/>
+</p>
+
+### 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql"/>
+</p>
+
+### ⚒️ Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
+</p>
 
 ---
 
